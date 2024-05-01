@@ -1,0 +1,1 @@
+Homework 3 for Marketing Analytics course: Building and analyzing AFT models on Telecom dataset.
